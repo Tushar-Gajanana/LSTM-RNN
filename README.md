@@ -2,6 +2,9 @@
 
 A deep-learning project that predicts the next word in a text sequence using a recurrent neural network trained on William Shakespeare's *Hamlet*. The repository includes the training notebook, trained model files, tokenizer, dataset, and a Streamlit web application for interactive predictions.
 
+link: https://fnnbyagmr7bvtwkxxgskls.streamlit.app/
+
+
 ## Overview
 
 The project follows a complete natural language processing workflow:
